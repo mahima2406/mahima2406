@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mahima Arora  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&vCenter=true&width=800&color=FFFF99&lines=Mahima+here,+welcome+to+my+profile!+%F0%9F%99%8F;)
 
 I’m a **Software Engineer @ Microsoft**, passionate about **building scalable software, crafting thoughtful product experiences, and exploring Web3 & AI**.  
 I believe that **great products aren’t just built—they're designed with purpose**, combining **clean engineering, data-driven insights, and user-first thinking**.  
